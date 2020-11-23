@@ -1,0 +1,5 @@
+Credentials cache: API:54B5C5A4-3F3E-4644-A870-A60CC2197F1D
+        Principal: mcostant@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 16:50:01 2020  Nov 24 02:50:01 2020  krbtgt/42ROMA.IT@42ROMA.IT

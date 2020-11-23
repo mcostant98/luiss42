@@ -1,0 +1,4 @@
+ls -m -t -p -U
+cd ..
+
+pwd
